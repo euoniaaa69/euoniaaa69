@@ -1,54 +1,22 @@
-<br clear="both">
-
-<h3 align="center">Hey! My name Euonia, and I'm a Ren'py Translator, Modder, and Debugger.</h3>
-
-###
-
-<br clear="both">
-
+<!-- 🔝 Banner GIF -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=euoniaaa69&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=euoniaaa69&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&custom_title=Indonesian" height="150" alt="languages graph"  />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="max-width:900px;" />
 </div>
 
-###
+<!-- 👨‍💻 Coding GIF (right aligned) -->
+<img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
-<br clear="both">
+### Languages and Tools:
+![HTML5](https://img.shields.io/badge/HTML5-%23007ACC?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%23007ACC?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23007ACC?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-%23007ACC?style=for-the-badge&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%23007ACC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23007ACC?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-%23007ACC?style=for-the-badge&logo=nextjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-%23007ACC?style=for-the-badge&logo=python&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=vscode&logoColor=white) 
 
-<img align="left" height="130" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fmedia1.tenor.com%2Fm%2FytJhdaHvHCQAAAAC%2Fellen-joe-zenless-zone-zero.gif&sp=1756198180T62313d3f860fd457ffd09fea1330aa8a9472cad17909aa44a9dbbc19f564e70a"  />
+<h3 align="left">📊 GitHub Stats:</h3>
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=euoniaaa69&show_icons=true&locale=en" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=euoniaaa69&show_icons=true&locale=en&layout=compact" />
+</p>
 
-###
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=euoniaaa69&" alt="euoniaaa69" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-</div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/euoniaaa69/euoniaaa69/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="47" height="35" alt="ko-fi logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="47" height="35" alt="codepen logo"  />
-</div>
-
-###
