@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=euoniaaa69&fontSize=60&fontColor=ffffff" alt="euoniaaa69" width="100%" />
-</div>
-
-<div align="center">
-
-**Learning by building on my device.**
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+euoniaaa69;Learning+by+building+on+my+device." alt="Hi, I'm euoniaaa69 — Learning by building on my device." />
 </div>
 
 ### What I'm doing
