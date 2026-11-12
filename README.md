@@ -22,6 +22,6 @@ Tinkering with Android and PC. Learning by building, breaking, and fixing things
 ### GitHub Stats
 
 <p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=euoniaaa69&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=euoniaaa69&layout=compact&theme=dark" />
+  <img width="48%" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=euoniaaa69&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs?username=euoniaaa69&layout=compact&theme=dark" />
 </p>
