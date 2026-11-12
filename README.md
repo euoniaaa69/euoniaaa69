@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+euoniaaa69;Learning+by+building+on+my+device." alt="Hi, I'm euoniaaa69 - Learning by building on my device." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=euoniaaa69&fontSize=60&fontColor=ffffff" alt="euoniaaa69" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="coding" width="400" />
+
+**Learning by building on my device.**
+
 </div>
 
 ### What I'm doing
@@ -21,7 +23,10 @@ Tinkering with Android and PC. Learning by building, breaking, and fixing things
 
 ### GitHub Stats
 
-<p>
-  <img width="48%" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=euoniaaa69&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs?username=euoniaaa69&layout=compact&theme=dark" />
-</p>
+<div align="center">
+  <img width="100%" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=euoniaaa69&show_icons=true&theme=dark" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs?username=euoniaaa69&layout=compact&theme=dark" alt="Top Languages" />
+</div>
